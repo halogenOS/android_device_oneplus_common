@@ -1,8 +1,7 @@
 [
   {
-    "repository": "PixelExperience/packages_resources_OneplusGestures",
+    "repository": "android_packages_resources_OneplusGestures",
     "target_path": "packages/resources/OneplusGestures",
-    "branch": "pie",
-    "remote": "github"
+    "branch": "XOS-10.0"
   }
 ]
